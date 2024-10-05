@@ -3,4 +3,4 @@
 - Latest Trends
 - Study and Development Reference Document
 - Technologies & Keywords
-- [issues](https://github.com/Pensive-dev/DevReview/issues)
+- [Docs...](https://github.com/Pensive-dev/DevReview/issues)
